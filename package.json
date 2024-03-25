@@ -1,0 +1,23 @@
+{
+  "name": "backend-services",
+  "version": "1.0.0",
+  "description": "This repository contains all backend service that are used by mobile app, both applications consumes the same backend services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MobileAppsProjects/backend-services.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MobileAppsProjects/backend-services/issues"
+  },
+  "homepage": "https://github.com/MobileAppsProjects/backend-services#readme",
+  "devDependencies": {
+    "firebase-tools": "^13.5.2"
+  }
+}
